@@ -1,1 +1,1 @@
-Created a simple applicatoin using React.js
+Created a simple application using React.js
