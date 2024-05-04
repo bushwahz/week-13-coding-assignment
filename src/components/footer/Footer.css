@@ -1,0 +1,12 @@
+/* ---FOOTER STYLES ---> */
+.footer {
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  font-family: sans-serif;
+  }
